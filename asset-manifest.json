@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BookService/static/css/main.6aee037a.css",
-    "main.js": "/BookService/static/js/main.88d1726d.js",
+    "main.css": "/BookService/static/css/main.1bac05c0.css",
+    "main.js": "/BookService/static/js/main.516fb249.js",
     "static/js/787.aaa490f5.chunk.js": "/BookService/static/js/787.aaa490f5.chunk.js",
     "static/media/serviceBg-2.jpg": "/BookService/static/media/serviceBg-2.a411db5adb826149ccbf.jpg",
     "static/media/serviceBg-3.jpg": "/BookService/static/media/serviceBg-3.a50ac3c646a6900d97be.jpg",
@@ -10,12 +10,12 @@
     "static/media/serviceBg-1.jpg": "/BookService/static/media/serviceBg-1.7ebfa5f533b1cc88475d.jpg",
     "static/media/logo.svg": "/BookService/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/BookService/index.html",
-    "main.6aee037a.css.map": "/BookService/static/css/main.6aee037a.css.map",
-    "main.88d1726d.js.map": "/BookService/static/js/main.88d1726d.js.map",
+    "main.1bac05c0.css.map": "/BookService/static/css/main.1bac05c0.css.map",
+    "main.516fb249.js.map": "/BookService/static/js/main.516fb249.js.map",
     "787.aaa490f5.chunk.js.map": "/BookService/static/js/787.aaa490f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6aee037a.css",
-    "static/js/main.88d1726d.js"
+    "static/css/main.1bac05c0.css",
+    "static/js/main.516fb249.js"
   ]
 }
